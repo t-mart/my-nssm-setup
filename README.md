@@ -13,7 +13,8 @@ Here's my documentation for how I set up [nssm](https://nssm.cc/) on my Windows 
 
 ## Services
 
-> **Important** Any nssm command that sets `ObjectName` should replace the
+> **Important**
+> Any nssm command that sets `ObjectName` should replace the
 > asterisks with the true password for that user. It may be helpful to edit the
 > commands in a text editor.
 
