@@ -13,20 +13,9 @@ Here's my documentation for how I set up [nssm](https://nssm.cc/) on my Windows 
 
 ## Services
 
-> **Note**
-> Highlights information that users should take into account, even when skimming.
-
-f
-
-> **Warning**
-> Highlights information that users should take into account, even when skimming.
-
-f
-
-> **Important**
-> Highlights information that users should take into account, even when skimming.
-
-Any nssm command that sets `ObjectName` should replace the asterisks with the true password for that user. It may be helpful to edit the commands in a text editor.
+> **Important** Any nssm command that sets `ObjectName` should replace the
+> asterisks with the true password for that user. It may be helpful to edit the
+> commands in a text editor.
 
 ### unftp
 
